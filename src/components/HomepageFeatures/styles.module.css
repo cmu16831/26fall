@@ -1,0 +1,88 @@
+.features {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 4rem;
+}
+
+.courseDescription {
+  margin-bottom: 3rem;
+  text-align: justify;
+}
+
+.staffGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.25rem;
+}
+
+.staffCard {
+  min-width: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.staffLink {
+  display: block;
+  height: 100%;
+  padding: 1rem;
+  color: var(--ifm-heading-color);
+  background: var(--ifm-card-background-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 0.75rem;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 8%);
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+
+.staffLink:hover {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  transform: translateY(-2px);
+  box-shadow: 0 7px 18px rgb(0 0 0 / 12%);
+}
+
+.featureImage {
+  display: block;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto 0.9rem;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+}
+
+.name {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.taHeading {
+  margin-top: 3rem;
+}
+
+@media screen and (min-width: 768px) {
+  .taGrid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .courseDescription {
+    text-align: left;
+  }
+
+  .staffGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.75rem;
+  }
+
+  .instructorGrid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .featureImage {
+    width: 120px;
+    height: 120px;
+  }
+}
