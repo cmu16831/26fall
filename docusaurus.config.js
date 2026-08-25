@@ -13,14 +13,14 @@ const config = {
   favicon: 'img/ri_logo.svg',
 
   // Set the production url of your site here
-  url: 'https://16-831.github.io',
+  url: 'https://cmu16831.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/26fall/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: '16-831', // Usually your GitHub org/user name.
+  organizationName: 'cmu16831', // Usually your GitHub org/user name.
   projectName: '26fall', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -58,7 +58,7 @@ const config = {
           src: 'img/ri_logo.svg',
         },
         items: [
-          {to: '/logistics', label: 'Syllabus', position: 'left'},
+          {to: '/logistics', label: 'Logistics', position: 'left'},
           {to: '/lectures', label: 'Schedule', position: 'left'},
           {to: '/links', label: 'Links', position: 'left'},
           // {to: '/projects', label: 'Project Gallery', position: 'left'},
