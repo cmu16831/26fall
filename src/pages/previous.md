@@ -2,9 +2,9 @@
 title: Previous Offerings
 ---
 
-## [Fall 2025](https://16-831.github.io/fall25/)
+## [Fall 2025](https://cmu16831.github.io/fall25/)
 
-## [Spring 2025](https://16-831.github.io/spring25/)
+## [Spring 2025](https://cmu16831.github.io/spring25/)
 
 ## [Fall 2024](https://16-831.github.io/fall24/)
 
