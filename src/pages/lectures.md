@@ -6,7 +6,7 @@ Lecture slides will be posted here and on [Piazza](https://piazza.com/cmu/fall20
 
 | Date | Lecture | Optional Readings | Logistics | Topic Group |
 | --- | --- | --- | --- | --- |
-| 08/25 | Lecture 1: Course Introduction: What is Robot Learning? | [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) | | 🔴 Introduction |
+| 08/25 | Lecture 1: Course Introduction: What is Robot Learning? [[slides](https://drive.google.com/file/d/1L4X1z4RNei7k7JEVEfoxzvL0DolNlOpP/view?usp=sharing)] | [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) | | 🔴 Introduction |
 | 08/27 | Lecture 2: Robot Learning: An Overview | [RL Textbook, Ch. 1](http://incompleteideas.net/book/RLbook2018.pdf) | | 🔴 Introduction |
 | 09/01 | Lecture 3: ML/DL Refresher Part 1 | [DL Textbook, Ch. 5-10](https://www.deeplearningbook.org/) | **HW1 out** | 🟠 ML/DL Refresher |
 | 09/03 | Lecture 4: ML/DL Refresher Part 2 | [DL Textbook, Ch. 5-10](https://www.deeplearningbook.org/) | | 🟠 ML/DL Refresher |
@@ -28,7 +28,7 @@ Lecture slides will be posted here and on [Piazza](https://piazza.com/cmu/fall20
 | 10/29 | Lecture 18: Exploration | [Curiosity](https://arxiv.org/pdf/1705.05363.pdf); [RND](https://arxiv.org/pdf/1810.12894.pdf) | | 🟡 Bandits and Exploration |
 | 11/03 | **Democracy Day - no class** | | | 🗳️ Break |
 | 11/05 | Lecture 19: Offline RL | [NeurIPS Tutorial](https://sites.google.com/view/offlinerltutorial-neurips2020/home); [IQL](https://arxiv.org/abs/2110.06169); [Diffuser](https://arxiv.org/abs/2205.09991) | | ⚪ RL from Offline Data |
-| 11/10 | Lecture 20: Inverse RL | [Maximum Entropy IRL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf); [LP-IRL](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf) | | ⚪ Learning from Demonstrations |
+| 11/10 | Lecture 20: Inverse RL | [Maximum Entropy IRL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf); [LP-IRL](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf) | | ⚪ RL from Offline Data |
 | 11/12 | Lecture 21: Guest Lecture (TBD) | | **HW4 due** | 🟤 Specialized Topics |
 | 11/17 | Lecture 22: Robot Simulation and Sim2Real | [Genesis](https://genesis-embodied-ai.github.io/); [Domain Randomization](https://arxiv.org/abs/1703.06907); [Champion-Level Drone Racing](https://www.nature.com/articles/s41586-023-06419-4) | | 🟤 Specialized Topics |
 | 11/19 | Lecture 23: Multi-Task and Adaptable Robot Learning | [Teacher-Student](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/448343/1/2020_science_robotics_lee_locomotion.pdf); [RMA](https://arxiv.org/abs/2107.04034); [Neural-Fly](https://arxiv.org/abs/2205.06908) | | 🟤 Specialized Topics |
