@@ -14,17 +14,17 @@ title: Syllabus and Course Logistics
 
 ## Office Hours
 
-Each teaching assistant will hold one 45-minute office-hour session per week. Times and locations will be announced on Piazza.
+Each teaching assistant will hold one 45-minute office-hour session per week. Unlisted times and locations will be announced on Piazza.
 
 | Staff | Office Hours |
 | --- | --- |
 | Guanya Shi | By appointment |
-| Annabella Macaluso | TBD |
-| Esme Rubinstein | TBD |
-| Jingtian Yan | TBD |
-| Pranay Gupta | TBD |
+| Annabella Macaluso | Thursday, 10:00-10:45 AM |
+| Esme Rubinstein | Thursday, 3:00-3:45 PM, NSH 4208 |
+| Jingtian Yan | Monday, 3:00-3:45 PM |
+| Pranay Gupta | Tuesday, 5:00-5:45 PM |
 | Arthur Fender Coelho Bucker | TBD |
-| Jimmy Dai | TBD |
+| Jimmy Dai | Monday, 2:00-2:45 PM, NSH A521 |
 
 ## Grading Policy
 
