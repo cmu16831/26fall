@@ -19,7 +19,7 @@ Each teaching assistant will hold one 45-minute office-hour session per week. Un
 | Staff | Office Hours |
 | --- | --- |
 | Guanya Shi | By appointment |
-| Annabella Macaluso | Thursday, 10:00-10:45 AM |
+| Annabella Macaluso | Thursday, 10:00-10:45 AM, NSH 4201 |
 | Esme Rubinstein | Thursday, 3:00-3:45 PM, NSH 4208 |
 | Jingtian Yan | Monday, 3:00-3:45 PM |
 | Pranay Gupta | Tuesday, 5:00-5:45 PM |
