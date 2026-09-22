@@ -23,7 +23,7 @@ Each teaching assistant will hold one 45-minute office-hour session per week. Un
 | Esme Rubinstein | Thursday, 3:00-3:45 PM, NSH 4208 |
 | Jingtian Yan | Monday, 3:00-3:45 PM, NSH 4211 |
 | Pranay Gupta | Tuesday, 5:00-5:45 PM, NSH 4511 |
-| Arthur Fender Coelho Bucker | Wednesday, 2:00-2:45 PM, Squirrel Hill Office (1723 Murray Ave, Pittsburgh, PA 15217), Table 5 |
+| Arthur Fender Coelho Bucker | Wednesday, 2:00-2:45 PM, NSH 2201G |
 | Jimmy Dai | Monday, 2:00-2:45 PM, NSH A521<br />[zoom](https://cmu.zoom.us/j/5835704541) |
 
 ## Grading Policy
