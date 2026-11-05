@@ -29,10 +29,10 @@ Lecture slides will be posted here and on [Piazza](https://piazza.com/cmu/fall20
 | 11/03 | **Democracy Day - no class** | | | 🗳️ Break |
 | 11/05 | Lecture 19: Offline RL | [NeurIPS Tutorial](https://sites.google.com/view/offlinerltutorial-neurips2020/home); [IQL](https://arxiv.org/abs/2110.06169); [Diffuser](https://arxiv.org/abs/2205.09991) | | ⚪ RL from Offline Data |
 | 11/10 | Lecture 20: Inverse RL | [Maximum Entropy IRL](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf); [LP-IRL](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf) | | ⚪ RL from Offline Data |
-| 11/12 | Lecture 21: Guest Lecture (TBD) | | **HW4 due** | 🟤 Specialized Topics |
+| 11/12 | Lecture 21: SEAR: Self-Evolving Agentic Robotics ([Xinyi Wang](https://wangxinyilinda.github.io/)) | | **HW4 due** | 🟤 Specialized Topics |
 | 11/17 | Lecture 22: Robot Simulation and Sim2Real | [Genesis](https://genesis-embodied-ai.github.io/); [Domain Randomization](https://arxiv.org/abs/1703.06907); [Champion-Level Drone Racing](https://www.nature.com/articles/s41586-023-06419-4) | | 🟤 Specialized Topics |
 | 11/19 | Lecture 23: Multi-Task and Adaptable Robot Learning | [Teacher-Student](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/448343/1/2020_science_robotics_lee_locomotion.pdf); [RMA](https://arxiv.org/abs/2107.04034); [Neural-Fly](https://arxiv.org/abs/2205.06908) | | 🟤 Specialized Topics |
-| 11/24 | Lecture 24: Agentic Robot Learning (Haoru Xue) | | | 🟤 Specialized Topics |
+| 11/24 | Lecture 24: Agentic Robot Learning ([Haoru Xue](https://haoruxue.github.io/)) | | | 🟤 Specialized Topics |
 | 11/26 | **Thanksgiving - no class** | | | 🦃 Break |
 | 12/01 | Lecture 25: Student Project Presentations | | | ⚫ Project |
 | 12/03 | Lecture 26: Student Project Presentations | | | ⚫ Project |
